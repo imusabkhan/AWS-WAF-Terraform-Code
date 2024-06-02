@@ -12,7 +12,7 @@ This Terraform configuration sets up an AWS WAFv2 Web ACL with an AWS Managed Ru
 1. **Clone the repository:**
 
     ```sh
-    git clone [<your-repo-url>](https://github.com/imusabkhan/AWS-WAF-Terraform-Code.git)
+    git clone https://github.com/imusabkhan/AWS-WAF-Terraform-Code.git
     cd AWS-WAF-Terraform-Code
     ```
 
