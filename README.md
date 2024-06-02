@@ -1,6 +1,6 @@
 # AWS WAFv2 with Managed SQL Injection Rule
 
-This Terraform configuration sets up an AWS WAFv2 Web ACL with an AWS Managed Rule for SQL Injection (SQLi). It attaches the Web ACL to an AWS load balancer.
+This Terraform configuration sets up an AWS WAFv2 Web ACL with an AWS Managed Rule **AWSManagedRulesSQLiRuleSet** for SQL Injection (SQLi). It attaches the Web ACL to an AWS load balancer.
 
 ## Prerequisites
 
